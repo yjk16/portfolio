@@ -1,0 +1,17 @@
+
+.projectsContainer {
+    min-height: 100vh;
+    background-color: black;
+    text-align: left;
+    color: aliceblue;
+    padding-top: 50px;
+}
+
+.projectsContainer h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.projectsContainer h3 {
+    text-decoration: underline;
+}

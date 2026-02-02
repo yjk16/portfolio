@@ -1,0 +1,8 @@
+
+.homeContainer {
+    min-height: 100vh;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 150px;
+}
